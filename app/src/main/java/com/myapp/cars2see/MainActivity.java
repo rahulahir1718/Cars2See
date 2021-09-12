@@ -24,6 +24,8 @@ import com.google.firebase.firestore.QuerySnapshot;
 import java.util.ArrayList;
 import java.util.List;
 
+
+//Hello from rahul kumnharvadiya
 public class MainActivity extends AppCompatActivity implements brandsAdapter.ma1,modelsAdapter.ma2{
 
     private FirebaseFirestore firestore;
